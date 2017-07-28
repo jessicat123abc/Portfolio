@@ -1,0 +1,15 @@
+body {
+  background-color: #BC8CFE;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+}
+p.paragraph2{
+  color: green;
+}
